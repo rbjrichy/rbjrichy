@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hola, mi nombre es Ricardo 👋🏼👋
+
+<img src="https://github.com/rbjrichy/rbjrichy/blob/main/avatar.png?raw=true" width="230">
 
 
-**rbjrichy/rbjrichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rbjrichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
