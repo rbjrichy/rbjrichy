@@ -1,23 +1,7 @@
-## Hola, mi nombre es Ricardo 👋🏼👋
-
-<img src="https://github.com/rbjrichy/rbjrichy/blob/main/avatar.png?raw=true" width="230">
-
-
-**rbjrichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Ricardo Breton La Come
+# Hola, mi nombre es Ricardo Breton Jacome 👋🏼👋
 
 ## Ingeniero de Sistemas | Full Stack Developer
+<img src="https://github.com/rbjrichy/rbjrichy/blob/main/avatar.png?raw=true" width="230">
 
 ### Perfil
 Soy desarrollador web full stack con experiencia en la implementación de microservicios y la creación de APIs REST. Manejo lenguajes como JavaScript, trabajando con frameworks modernos tanto en el backend como en el frontend. Además, tengo experiencia en el desarrollo de aplicaciones para PC utilizando C# y Java, así como en la administración de redes de datos y soporte técnico. Estoy interesado en colaborar en equipos multidisciplinarios para crear soluciones innovadoras y robustas.
@@ -26,10 +10,8 @@ Soy desarrollador web full stack con experiencia en la implementación de micros
 
 ### Información de Contacto
 - **Ubicación**: Sucre, Bolivia
-- **Dirección**: B. Villa Charcas, C. Churuquella S/N
 - **Email**: rbjrichy@gmail.com
-- **Teléfono**: (+591) 68616426
-
+  
 ---
 
 ## Educación
