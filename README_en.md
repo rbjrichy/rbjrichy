@@ -1,7 +1,19 @@
 # Hi, my name is Ricardo Breton Jacome 👋🏼👋
 <table align="right">
- <tr><td><a href="README.md"><img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/es-flag.png?raw=true" height="13"> Español</a></td></tr>
- <tr><td><a href="README_en.md"><img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/us-flag.png?raw=true" height="13"> English</a></td></tr>
+  <tr>
+    <td>
+      <a href="README.md">
+        <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/es-flag.png?raw=true" height="15">
+        <span style="font-weight: bold; margin-left: 5px;">Español</span>
+      </a>
+    </td>
+    <td>
+      <a href="README_en.md">
+        <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/us-flag.png?raw=true" height="15">
+        <span style="font-weight: bold; margin-left: 5px;">English</span>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Ingeniero de Sistemas | Full Stack Developer
