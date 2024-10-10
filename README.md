@@ -20,6 +20,12 @@
 <!-- ## https://github.com/rbjrichy/rbjrichy/blob/main/ -->
 <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/avatar6.png?raw=true" width="230">
 
+[![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Breton-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rbjrichy/)](https://www.linkedin.com/in/rbjrichy/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rbjrichy?style=social)](https://x.com/rbjrichy)
+[![GitHub Followers](https://img.shields.io/github/followers/rbjrichy?label=Follow&style=social)](https://github.com/rbjrichy/?tab=followers)
+
+<!-- ![GitHub Stats](https://github-readme-stats-fork-amber.vercel.app/api?username=rbjrichy&show_icons=true) -->
+
 ### Perfil
 Soy desarrollador web full stack con experiencia en la implementación de microservicios y la creación de APIs REST. Manejo lenguajes como JavaScript, trabajando con frameworks modernos tanto en el backend como en el frontend. Además, tengo experiencia en el desarrollo de aplicaciones para PC utilizando C# y Java, así como en la administración de redes de datos y soporte técnico. Estoy interesado en colaborar en equipos multidisciplinarios para crear soluciones innovadoras y robustas.
 
