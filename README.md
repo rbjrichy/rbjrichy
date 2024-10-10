@@ -1,22 +1,22 @@
 # Hola, mi nombre es Ricardo Breton Jacome 👋🏼👋
+## Ingeniero de Sistemas | Full Stack Developer
 <table align="right">
   <tr>
     <td>
-      <a href="README.md">
+      <a href="README.md" style="font-weight: bold; margin-left: 5px;">
         <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/es-flag.png?raw=true" height="15">
-        <span style="font-weight: bold; margin-left: 5px;">Español</span>
+        Español
       </a>
     </td>
     <td>
-      <a href="README_en.md">
+      <a href="README_en.md" style="font-weight: bold; margin-left: 5px;">
         <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/us-flag.png?raw=true" height="15">
-        <span style="font-weight: bold; margin-left: 5px;">English</span>
+        English
       </a>
     </td>
   </tr>
 </table>
 
-## Ingeniero de Sistemas | Full Stack Developer
 <!-- ## https://github.com/rbjrichy/rbjrichy/blob/main/ -->
 <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/avatar6.png?raw=true" width="230">
 
@@ -28,7 +28,7 @@ Soy desarrollador web full stack con experiencia en la implementación de micros
 
 [![Top Languages](https://github-readme-stats-fork-amber.vercel.app/api/top-langs/?username=rbjrichy&layout=compact&langs_count=16)](https://github.com/rbjrichy) -->
 
-# 📍 Información de Contacto
+## 📍 Información de Contacto
 - **🏠 Ubicación**: Sucre, Bolivia  
 - **✉️ Email**: rbjrichy@gmail.com
 

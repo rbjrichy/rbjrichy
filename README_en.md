@@ -1,27 +1,26 @@
 # Hi, my name is Ricardo Breton Jacome 👋🏼👋
+## Systems engineer | Full Stack Developer
 <table align="right">
   <tr>
     <td>
-      <a href="README.md">
+      <a href="README.md" style="font-weight: bold; margin-left: 5px;">
         <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/es-flag.png?raw=true" height="15">
-        <span style="font-weight: bold; margin-left: 5px;">Español</span>
+        Español
       </a>
     </td>
     <td>
-      <a href="README_en.md">
+      <a href="README_en.md" style="font-weight: bold; margin-left: 5px;">
         <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/us-flag.png?raw=true" height="15">
-        <span style="font-weight: bold; margin-left: 5px;">English</span>
+        English
       </a>
     </td>
   </tr>
 </table>
 
-## Ingeniero de Sistemas | Full Stack Developer
-
 <img src="https://github.com/rbjrichy/rbjrichy/blob/main/img/avatar6.png?raw=true" width="230">
 
 ### Perfil
-I am a full stack web developer with experience in implementing microservices and creating REST APIs. I use languages ​​such as JavaScript, working with modern frameworks both in the backend and in the frontend. Additionally, I have experience in developing PC applications using C# and Java, as well as in data network administration and technical support. I am interested in collaborating in multidisciplinary teams to create innovative and robust solutions.
+<p> I am a full stack web developer with experience in implementing microservices and creating REST APIs. I use languages ​​such as JavaScript, working with modern frameworks both in the backend and in the frontend. Additionally, I have experience in developing PC applications using C# and Java, as well as in data network administration and technical support. I am interested in collaborating in multidisciplinary teams to create innovative and robust solutions. </p>
 
 ## 📍 Contact Information
 - **🏠 Location**: Sucre, Bolivia  
